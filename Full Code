@@ -1,0 +1,27 @@
+using System;
+
+namespace Program
+{
+    
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          Console.WriteLine("Hello!, \nWhats your name?");
+
+          Console.ReadLine();
+
+          Console.WriteLine("Thats a cool name!\nMy name is VCX-9000 and im here from the futute!");
+          Console.WriteLine("Whats your favorute color?");
+
+
+
+          Console.ReadLine();
+
+          Console.WriteLine("Cool mine is metallic because im made out of metal");
+
+          Console.ReadKey();
+        }
+    }
+
+}
